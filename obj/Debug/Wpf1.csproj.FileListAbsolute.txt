@@ -1,0 +1,103 @@
+D:\Работы по c# 2022-2023\Wpf1\bin\Debug\Wpf1.exe.config
+D:\Работы по c# 2022-2023\Wpf1\bin\Debug\Wpf1.exe
+D:\Работы по c# 2022-2023\Wpf1\bin\Debug\Wpf1.pdb
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1.csproj.AssemblyReference.cache
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1.csproj.SuggestedBindingRedirects.cache
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\MainWindow.g.cs
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\App.g.cs
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1_MarkupCompile.cache
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1_MarkupCompile.lref
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\MainWindow.baml
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1.g.resources
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1.Properties.Resources.resources
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1.csproj.GenerateResource.cache
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1.csproj.CoreCompileInputs.cache
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1.exe
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1.pdb
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\App.baml
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Registration.g.cs
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Login.g.cs
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Registration.baml
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Login.baml
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Make_an_order.g.cs
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Make_an_order.baml
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Wpf1.csproj.ResolveComReference.cache
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Basket.g.cs
+D:\Работы по c# 2022-2023\Wpf1\obj\Debug\Basket.baml
+C:\Users\stud\Desktop\Wpf1\bin\Debug\Wpf1.exe.config
+C:\Users\stud\Desktop\Wpf1\bin\Debug\Wpf1.exe
+C:\Users\stud\Desktop\Wpf1\bin\Debug\Wpf1.pdb
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1.csproj.ResolveComReference.cache
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Basket.g.cs
+C:\Users\stud\Desktop\Wpf1\obj\Debug\MainWindow.g.cs
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Make_an_order.g.cs
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Registration.g.cs
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Login.g.cs
+C:\Users\stud\Desktop\Wpf1\obj\Debug\App.g.cs
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1_MarkupCompile.cache
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1_MarkupCompile.lref
+C:\Users\stud\Desktop\Wpf1\obj\Debug\App.baml
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Basket.baml
+C:\Users\stud\Desktop\Wpf1\obj\Debug\MainWindow.baml
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Make_an_order.baml
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Registration.baml
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Login.baml
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1.g.resources
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1.Properties.Resources.resources
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1.exe
+C:\Users\stud\Desktop\Wpf1\obj\Debug\Wpf1.pdb
+G:\Wpf1\bin\Debug\Wpf1.exe.config
+G:\Wpf1\bin\Debug\Wpf1.exe
+G:\Wpf1\bin\Debug\Wpf1.pdb
+G:\Wpf1\obj\Debug\Wpf1.csproj.AssemblyReference.cache
+G:\Wpf1\obj\Debug\Wpf1.csproj.SuggestedBindingRedirects.cache
+G:\Wpf1\obj\Debug\Wpf1.csproj.ResolveComReference.cache
+G:\Wpf1\obj\Debug\Basket.g.cs
+G:\Wpf1\obj\Debug\MainWindow.g.cs
+G:\Wpf1\obj\Debug\Make_an_order.g.cs
+G:\Wpf1\obj\Debug\Registration.g.cs
+G:\Wpf1\obj\Debug\Login.g.cs
+G:\Wpf1\obj\Debug\App.g.cs
+G:\Wpf1\obj\Debug\Wpf1_MarkupCompile.cache
+G:\Wpf1\obj\Debug\Wpf1_MarkupCompile.lref
+G:\Wpf1\obj\Debug\App.baml
+G:\Wpf1\obj\Debug\Basket.baml
+G:\Wpf1\obj\Debug\MainWindow.baml
+G:\Wpf1\obj\Debug\Make_an_order.baml
+G:\Wpf1\obj\Debug\Registration.baml
+G:\Wpf1\obj\Debug\Login.baml
+G:\Wpf1\obj\Debug\Wpf1.g.resources
+G:\Wpf1\obj\Debug\Wpf1.Properties.Resources.resources
+G:\Wpf1\obj\Debug\Wpf1.csproj.GenerateResource.cache
+G:\Wpf1\obj\Debug\Wpf1.csproj.CoreCompileInputs.cache
+G:\Wpf1\obj\Debug\Wpf1.exe
+G:\Wpf1\obj\Debug\Wpf1.pdb
+D:\Wpf1\bin\Debug\Wpf1.exe.config
+D:\Wpf1\bin\Debug\Wpf1.exe
+D:\Wpf1\bin\Debug\Wpf1.pdb
+D:\Wpf1\obj\Debug\Wpf1.csproj.AssemblyReference.cache
+D:\Wpf1\obj\Debug\Wpf1.csproj.SuggestedBindingRedirects.cache
+D:\Wpf1\obj\Debug\Wpf1.csproj.ResolveComReference.cache
+D:\Wpf1\obj\Debug\Basket.g.cs
+D:\Wpf1\obj\Debug\MainWindow.g.cs
+D:\Wpf1\obj\Debug\Make_an_order.g.cs
+D:\Wpf1\obj\Debug\Registration.g.cs
+D:\Wpf1\obj\Debug\Login.g.cs
+D:\Wpf1\obj\Debug\App.g.cs
+D:\Wpf1\obj\Debug\Wpf1_MarkupCompile.cache
+D:\Wpf1\obj\Debug\Wpf1_MarkupCompile.lref
+D:\Wpf1\obj\Debug\App.baml
+D:\Wpf1\obj\Debug\Basket.baml
+D:\Wpf1\obj\Debug\MainWindow.baml
+D:\Wpf1\obj\Debug\Make_an_order.baml
+D:\Wpf1\obj\Debug\Registration.baml
+D:\Wpf1\obj\Debug\Login.baml
+D:\Wpf1\obj\Debug\Wpf1.g.resources
+D:\Wpf1\obj\Debug\Wpf1.Properties.Resources.resources
+D:\Wpf1\obj\Debug\Wpf1.csproj.GenerateResource.cache
+D:\Wpf1\obj\Debug\Wpf1.csproj.CoreCompileInputs.cache
+D:\Wpf1\obj\Debug\Wpf1.exe
+D:\Wpf1\obj\Debug\Wpf1.pdb
